@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "To cite this English edition, please use the citation below."
+title: "Epistles of Wisdom: Complete English Translation"
+authors:
+  - family-names: JH
+preferred-citation:
+  type: book
+  authors:
+    - family-names: JH
+  title: "Epistles of Wisdom (Rasāʾil al-Ḥikma): Complete English Translation"
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24014427
+  year: 2026
+  version: "30"
+  url: https://zenodo.org/records/24014427
