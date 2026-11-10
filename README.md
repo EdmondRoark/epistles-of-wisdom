@@ -1,6 +1,6 @@
 # Epistles of Wisdom · Complete English Translation
 
-Read and search all 111 Druze Epistles of Wisdom (*Rasāʾil al-Ḥikma*, رسائل الحكمة) in English. This edition is based primarily on the seventh edition of the Arabic text published by Dār li-Ajl al-Maʿrifa in Beirut in 1986.
+Read and search all 111 Druze Epistles of Wisdom (*Rasāʾil al-Ḥikma*, رسائل الحكمة) in English. This edition is based primarily on the [seventh Arabic edition](https://archive.org/download/rasail-al-hikma/%D8%AC%D9%85%D9%8A%D8%B9%20%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9.pdf#page=3), published by Dār li-Ajl al-Maʿrifa in Diyār ʿAql, Lebanon, in 1986.
 
 [Read online](https://edmondroark.github.io/epistles-of-wisdom/) · [Download PDF](https://edmondroark.github.io/epistles-of-wisdom/downloads/Epistles_of_Wisdom_English_1-111_v31_PUBLIC.pdf) · [Download plain text](https://edmondroark.github.io/epistles-of-wisdom/downloads/Epistles_of_Wisdom_English_1-111_v31_PUBLIC.txt) · [About the edition](https://edmondroark.github.io/epistles-of-wisdom/about.html)
 
