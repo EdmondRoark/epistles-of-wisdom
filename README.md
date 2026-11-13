@@ -9,5 +9,3 @@ Read and search all 111 Druze Epistles of Wisdom (*Rasāʾil al-Ḥikma*, رسا
 JH. (2026). *Epistles of Wisdom (Rasāʾil al-Ḥikma): Complete English Translation* (Version 31). Zenodo. [10.5281/zenodo.24104787](https://doi.org/10.5281/zenodo.24104787).
 
 Include the epistle number when citing a passage. The [collection DOI](https://doi.org/10.5281/zenodo.24014426) points to the latest archived edition.
-
-A [source citation correction](https://edmondroark.github.io/epistles-of-wisdom/about.html#source-correction) records the Arabic imprint in place of “Beirut” in the Version 30 and Version 31 download front matter.
